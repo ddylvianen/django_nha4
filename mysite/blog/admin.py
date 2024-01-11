@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Voetballers
+from .models import Post
 
 # Register your models here.
-admin.site.register(Voetballers)
+admin.site.register(Post)
