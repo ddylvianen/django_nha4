@@ -26,6 +26,7 @@ header{
     align-items: center;
     font-size: 25px;
 }
+
 .blog_container{
     align-self: flex-end;
     background-color: pink;
